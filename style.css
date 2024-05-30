@@ -45,6 +45,7 @@ main{
     h1{
         font-size: 20px;
         font-weight: bolder;
+        color: black;
     }
     p{
         font-size: 15px;
